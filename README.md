@@ -1,3 +1,5 @@
+[![Abdul's GitHub Banner](./assets/GitHubBanner.png)](https://abdulfarhan.com)
+
 [![LinkedIn](https://img.shields.io/badge/abdul_farhan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-farhan/)
 [![Twitter](https://img.shields.io/badge/-@F__Abdul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/F__Abdul)
 
@@ -7,13 +9,11 @@ I'm Abdul, a full-stack Web Developer based in Vancouver BC, Who is passionate a
 
 Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com)
 
-## Current Skills:
-
+## Current Skills
 
 #### Preprocessor Scripting Language
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
 
 #### Programming Languages
 
@@ -47,8 +47,7 @@ Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
-## Current Stats:
+## Current Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabdul88&show_icons=true&theme=city_lights)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabdul88&layout=compact&theme=city_lights)](https://github.com/fabdul88/github-readme-stats)
