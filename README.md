@@ -1,4 +1,4 @@
-[![Abdul's GitHub Banner](./assets/GitHubBanner.png)](https://abdulfarhan.com)
+[![Abdul's GitHub Banner](./assets/GithubBanner.png)](https://abdulfarhan.com)
 
 [![LinkedIn](https://img.shields.io/badge/abdul_farhan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-farhan/)
 [![Twitter](https://img.shields.io/badge/-@F__Abdul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/F__Abdul)
