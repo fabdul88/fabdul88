@@ -1,11 +1,11 @@
-[![Abdul's GitHub Banner](./assets/GitHubBanner.png)](https://abdulfarhan.com)
+[![Abdul's GitHub Banner](./assets/GithubBanner.png)](https://abdulfarhan.com)
 
 [![LinkedIn](https://img.shields.io/badge/abdul_farhan-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-farhan/)
 [![Twitter](https://img.shields.io/badge/-@F__Abdul-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/F__Abdul)
 
 Hey there,
 
-I'm Abdul, a full-stack Web Developer based in Vancouver BC, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I'm Currently learning Next.js, and looking to collaborate on Open-Source projects, with a goal to be more involved in the Development Community. I'm also open to having a chat about **Anything Web Development Related**
+I'm Abdul, a full-stack Web Developer based in Vancouver BC, Who is passionate about building user-friendly, easy-to-use single page applications, that makes a difference to the lives of those around me. I like to explore new trends and learn new technologies. I'm Currently learning Next.js, and looking to collaborate on Open-Source projects, with a goal to be more involved in the Development Community. I'm also open to having a chat about **Anything Web Development Related**.
 
 Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com)
 
