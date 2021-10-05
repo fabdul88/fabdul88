@@ -49,7 +49,7 @@ Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com
 
 ## Current Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabdul88&show_icons=true&theme=city_lights)
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabdul88&show_icons=true&theme=city_lights)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabdul88&layout=compact&theme=city_lights)](https://github.com/fabdul88/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=fabdul88&style=flat-square)
