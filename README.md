@@ -26,7 +26,7 @@ Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com
 
 ## Current Stats
 
-|   ![Abdul's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fabdul88&theme=rogue)
+|   ![Abdul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fabdul88&theme=rogue)
 | :---: |
 
 | ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabdul88&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fabdul88&theme=city-lights) |
