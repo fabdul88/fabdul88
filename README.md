@@ -10,7 +10,7 @@
 
 Hi there,
 
-I'm Abdul, a Full Stack Web Developer based in Vancouver BC. My passion is to Craft high-quality applications and websites that provide exceptional user experiences. Recently, I've been immersed in technologies like React, Next.js, JavaScript, TypeScript, Node.js, Prisma ORM, MongoDB, MySQL, AWS cloud services, Sanity, Contentful CMS, and Figma design software. Feel free to chat with me about anything **related to Web Development**.
+I'm Abdul, a Full Stack Web Developer based in Vancouver BC. My passion is to craft high-quality applications and websites that provide exceptional user experiences. Recently, I've been immersed in technologies like React, Next.js, JavaScript, TypeScript, Node.js, Prisma ORM, MongoDB, MySQL, AWS cloud services, Sanity, Contentful CMS, and Figma design software. Feel free to chat with me about anything **related to Web Development**.
 
 Want to know more about me? [Check out my portfolio.](https://www.abdulfarhan.com)
 
